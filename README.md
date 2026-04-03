@@ -1,0 +1,16 @@
+# Chalkboard Stand
+
+This is the repo for my chalkboard stand.
+
+
+# Dimensions
+- Chalkboard: 180 cm x 120 cm
+
+# Tools & Equipment
+- Aluminum profile connectors
+	- Print out of ABS
+	- Make sure they are secure under a 70 degree angle
+- Aluminum profile:
+	- 4040 T-slot aluminum profiles
+	- Buy at Obi (2 meter long profiles)
+	- Cut if necessary (Motionlab)
