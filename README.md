@@ -11,8 +11,8 @@ This is the repo for my chalkboard stand.
 	- Print out of ABS
 	- Make sure they are secure under a 70 degree angle
 - Aluminum profile:
-	- 4040 T-slot aluminum profiles (Motedis)
-		- Aluprofil 40x40L I-Typ Nut 8
+	- Profile 30x30 B-Type Slot 8
+	- (Ideally): Aluminium Profile 20x20 I-Typ slot 5
 	- Supplier: Motedis
 	- Cut if necessary (Motionlab)
 
